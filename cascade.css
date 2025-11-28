@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.homebanner {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    height: 200px;
+    width: 95%;
+    display: block;
+    margin: auto;
+}
