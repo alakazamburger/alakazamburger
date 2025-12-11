@@ -1,4 +1,5 @@
 body {
+    background-color: #ffcdf2;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -10,4 +11,36 @@ body {
     width: 95%;
     display: block;
     margin: auto;
+}
+
+.whitetext {
+    color: #ffa9c5;
+}
+
+.sec1 {
+    background-color: #ffb27a;
+}
+
+.fish {
+    background-color: #ffaba1;
+}
+
+.sec2 {
+    background-color: #ffa9c5;
+}
+
+.tildes {
+    background-color: #fcafe7;
+}
+
+.sec3 {
+    background-color: #dcbbff;
+}
+
+.colonthrees {
+    background-color: #b8c7ff;
+}
+
+.sec4 {
+    background-color: #99d1ff;
 }
