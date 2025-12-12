@@ -17,30 +17,48 @@ body {
     color: #ffa9c5;
 }
 
+.sec1, .sec2, .sec3, .sec4 {
+    margin: auto;
+    width: 90%;
+    padding: 20px;
+}
+
+.sec1, .sec3 {
+    border-radius: 20px 0px 0px 20px;
+}
+
+.sec2, .sec4 {
+    border-radius: 0px 20px 20px 0px;
+}
+
 .sec1 {
     background-color: #ffb27a;
+    border: 5px solid #ffa056;
 }
 
 .fish {
-    background-color: #ffaba1;
+    color: #ffaba1;
 }
 
 .sec2 {
     background-color: #ffa9c5;
+    border: 5px solid #ff8fb4;
 }
 
 .tildes {
-    background-color: #fcafe7;
+    color: #fcafe7;
 }
 
 .sec3 {
     background-color: #dcbbff;
+    border: 5px solid #ca98ff;
 }
 
 .colonthrees {
-    background-color: #b8c7ff;
+    color: #b8c7ff;
 }
 
 .sec4 {
     background-color: #99d1ff;
+    border: 5px solid #75bfff;
 }
