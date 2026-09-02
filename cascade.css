@@ -14,7 +14,11 @@ body {
 }
 
 .whitetext {
-    color: #ffa9c5;
+    color: #ffdee9;
+}
+
+.highlight {
+    background-color: #ffdee9;
 }
 
 .sec1, .sec2, .sec3, .sec4 {
@@ -23,24 +27,19 @@ body {
     padding: 20px;
 }
 
-.sec1, .sec3 {
-    border-radius: 40px 0px 0px 40px;
-}
-
-.sec2, .sec4 {
-    border-radius: 0px 40px 40px 0px;
-}
-
 .sec1 {
+    border-radius: 40px 40px 40px 0px;
     background-color: #ffb27a;
     border: 5px solid #ffa056;
 }
 
 .fish {
+    font-size: 20px;
     color: #ffaba1;
 }
 
 .sec2 {
+    border-radius: 0px 40px 0px 40px;
     background-color: #ffa9c5;
     border: 5px solid #ff8fb4;
 }
@@ -50,15 +49,17 @@ body {
 }
 
 .sec3 {
+    border-radius: 40px 0px 40px 0px;
     background-color: #dcbbff;
     border: 5px solid #ca98ff;
 }
 
-.colonthrees {
+.asterisks {
     color: #b8c7ff;
 }
 
 .sec4 {
+    border-radius: 0px 40px 40px 40px;
     background-color: #99d1ff;
     border: 5px solid #75bfff;
 }
