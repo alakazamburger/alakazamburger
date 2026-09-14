@@ -7,8 +7,8 @@ body {
 .homebanner {
     border: 5px solid #ffd1fc;
     border-radius: 40px;
-    height: 200px;
-    width: 90%;
+    height: auto;
+    width: 80%;
     display: block;
     margin: auto;
 }
@@ -23,7 +23,7 @@ body {
 
 .sec1, .sec2, .sec3, .sec4 {
     margin: auto;
-    width: 80%;
+    width: 70%;
     padding: 20px;
 }
 
